@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
 
         // this is a change on this file make by desktop computer
         int i = 0;
+
+        // this is a change on laptop
+        int j = 0;
     }
 }
